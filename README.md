@@ -95,10 +95,3 @@ Analyzes revenue exposure, churn-associated revenue, retention priority and high
 
 The analysis helps identify high-risk customer groups and high-value churned customers, enabling businesses to prioritize retention efforts and understand potential revenue exposure.
 
-## 📊 Dashboard Preview
-
-![Dashboard Page 1](screenshots/dashboard_page1.png)
-
-![Dashboard Page 2](screenshots/dashboard_page2.png)
-
-![Dashboard Page 3](screenshots/dashboard_page3.png)
